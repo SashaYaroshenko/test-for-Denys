@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove duplicates", "remove duplicates\remove duplicates.csproj", "{D64AC68F-04E6-444B-AD85-5F9ACB7C546D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{57761F77-B54F-48F2-BDCE-B75D0A74DC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64AC68F-04E6-444B-AD85-5F9ACB7C546D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64AC68F-04E6-444B-AD85-5F9ACB7C546D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64AC68F-04E6-444B-AD85-5F9ACB7C546D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64AC68F-04E6-444B-AD85-5F9ACB7C546D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57761F77-B54F-48F2-BDCE-B75D0A74DC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57761F77-B54F-48F2-BDCE-B75D0A74DC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57761F77-B54F-48F2-BDCE-B75D0A74DC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57761F77-B54F-48F2-BDCE-B75D0A74DC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C9638E0-7AAF-4851-9D0B-4EAC6A8768BF}
+	EndGlobalSection
+EndGlobal
